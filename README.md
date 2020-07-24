@@ -1,4 +1,4 @@
-# fangda
+# Fangda
 Hello, my name is Fangda,I'm from China.This is my GitHub home page
 
 # 我的日常
@@ -10,7 +10,7 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 ```
 - [ ] 2020年7月23日<br>
 ```java
-待添加
+今天晚上，我同意了她的追求，我也很高兴，因为我一直想找女朋友已经很久了，她的名字叫郭乾美。
 ```
 - [ ] 2020年7月24日<br>
 ```java
