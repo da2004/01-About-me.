@@ -26,7 +26,7 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 ```
 - [ ] 2004年03月04日<br>
 ```java
-我出生了
+农历二月十一日我出生了
 ```
 >欢迎到来，这里留下了关于我
 ***
