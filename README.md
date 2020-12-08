@@ -4,7 +4,11 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 # 我的日常
 `日记` `日常` `记录`<br>
 ***
-- [ ] 2020年11月24日<br>
+- [x] 2020年12月8日<br>
+```java
+ly
+```
+- [x] 2020年11月24日<br>
 ```java
 22:14分，我和刘屹
 ```
