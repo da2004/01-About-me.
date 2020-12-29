@@ -6,15 +6,15 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 ***
 - [x] 2020年12月8日<br>
 ```java
-ly
+× LY(QQ:1156499825)
 ```
-- [x] 2020年11月24日<br>
+- [ ] 2020年11月24日<br>
 ```java
-22:14分，我和刘屹
+22:14分，我和LY(QQ:1156499825)
 ```
 - [ ] 2020年7月23日<br>
 ```java
-已删除
+我和GQM
 ```
 - [ ] 2019年9月1日<br>
 ```java
