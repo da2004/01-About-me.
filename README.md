@@ -12,7 +12,7 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 ```java
 22:14分，我和LY(QQ:1156499825)
 ```
-- [ ] 2020年7月23日<br>
+- [x] 2020年7月23日<br>
 ```java
 我和GQM
 ```
