@@ -4,13 +4,14 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 # 我的日常
 `日记` `日常` `记录`<br>
 ***
-- [x] 2020年12月8日<br>
-```java
-× LY(QQ:1156499825)
-```
+满眼星河， 你是清风满月。
 - [ ] 2020年11月24日<br>
 ```java
-22:14分，我和LY(QQ:1156499825)
+22:14分，我和LY(QQ:1156499825)~12月8日
+```
+- [x] 2020年9月13日<br>
+```java
+SY(QQ:3224323175)
 ```
 - [x] 2020年7月23日<br>
 ```java
