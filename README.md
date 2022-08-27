@@ -5,7 +5,7 @@ Hello, my name is Fangda,I'm from China.This is my GitHub home page
 `日记` `日常` `记录`<br>
 ***
 满眼星河， 你是清风满月。
-- [ ] 2021年08月12日 19:45<br>
+- [x] 2021年08月12日 19:45<br>
 ```java
 FXX(QQ:2041270495)~------------------------------付纤纤
 ```
